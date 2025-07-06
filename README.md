@@ -1,5 +1,5 @@
 ## glickgNU
-## Northeastern Student
+I am currently a 2nd year at Northeastern University
 
 <!--
 **glickgNU/glickgNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
