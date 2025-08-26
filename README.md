@@ -1,11 +1,11 @@
-## About Me
+# About Me
 Hi, my name is Gil Glick, and I am currently a 2nd year at Northeastern University living in Boston. I am interested in the thought process of solving difficult small problems, and how different parts of code connect to create a large project. Some hobbies of mine include cooking, baking, and learning about geography and history. 
 
-## Notable Projects
+## Notable Projects 🛠️
 Sokoban: Created a 2D board puzzle game, with mechanics such as moveable blocks, and color-coded trophies and targets.
 Maze Game: Used the Kruskal's algorithm to create a randomly generated maze. 
 
-### Links
+## Links 📎
 LinkedIn: https://www.linkedin.com/in/gil-glick-150480373/
 Email: glick.g@northeastern.edu
 <!--
