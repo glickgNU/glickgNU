@@ -1,6 +1,9 @@
 ## glickgNU
 I am currently a 2nd year at Northeastern University
 
+# Links
+LinkedIn: https://www.linkedin.com/in/gil-glick-150480373/
+
 <!--
 **glickgNU/glickgNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
